@@ -4,13 +4,13 @@ if n % 2 == 0:
 else:
     print("Odd")
 
-"""n=int(input("Enter the number: "))
+n=int(input("Enter the number: "))
 if n > 0:
     print("Positive")
 elif n < 0:
     print("Negative")
 else:
-    print("Zero")"""
+    print("Zero")
 
 """
 a = int(input("Enter the first number: "))
