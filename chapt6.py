@@ -1,8 +1,8 @@
-'''n =int(input("Enter the number: "))
+n =int(input("Enter the number: "))
 if n % 2 == 0:
     print("Even")
 else:
-    print("Odd")'''
+    print("Odd")
 
 """n=int(input("Enter the number: "))
 if n > 0:
