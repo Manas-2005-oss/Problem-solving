@@ -1,9 +1,9 @@
-# # loops
-# i= 1
-# while (i<51):
-#     print(i)
-#     i += 1 
-#
+# loops
+i= 1
+while (i<51):
+    print(i)
+    i += 1 
+
 # for i in range(1,51):
 #     print(i)
 # #  list printing
