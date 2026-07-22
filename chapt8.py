@@ -1,7 +1,7 @@
 # Functions
-# def greet_user():
-#     print("Hi")
-# greet_user()
+def greet_user():
+    print("Hi")
+greet_user()
 
 # passing arguments to functions
 # def greet(name,end):
