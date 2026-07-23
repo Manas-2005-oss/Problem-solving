@@ -4,15 +4,16 @@ while (i<51):
     print(i)
     i += 1 
 
-# for i in range(1,51):
-#     print(i)
-# #  list printing
-# 
-# l1 =[1,2,"manas","manas","lokesh","sai","rohit",8,9]
-# i = 0
-# while (i < len(l1)):
-#     print(l1[i])
-#     i += 1
+for i in range(1,51):
+    print(i)
+    
+#  list printing
+
+l1 =[1,2,"manas","manas","lokesh","sai","rohit",8,9]
+i = 0
+while (i < len(l1)):
+    print(l1[i])
+    i += 1
 
 # l1 =(1,2,"manas","manas","lokesh","sai","rohit",8,9)
 # for item in l1:
