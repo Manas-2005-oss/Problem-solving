@@ -1,10 +1,10 @@
-# import numpy as np
-# array = np.array([1,2,3,4,5])
-# max_value = array[0]
-# for num in array:
-#     if num > max_value:
-#         max_value = num
-# print(max_value)
+import numpy as np
+array = np.array([1,2,3,4,5])
+max_value = array[0]
+for num in array:
+    if num > max_value:
+        max_value = num
+print(max_value)
 
 
 # find min value in array
