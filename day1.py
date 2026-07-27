@@ -1,8 +1,8 @@
-# # problem1
-# name = "Manas"
-# age = 21
-# branch = "CSM"
-# print(name,age,branch)
+ # problem1
+name = "Manas"
+age = 21
+branch = "CSM"
+print(name,age,branch)
 
 # # problem2
 a = 2
