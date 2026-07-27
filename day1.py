@@ -43,9 +43,9 @@ c = 5*(f-32)/9
 print(c)
 
 # problem7
-# c = int(input("Enter the temperature in celsius:"))
-# f= c*(9/5)+32
-# print(f)
+c = int(input("Enter the temperature in celsius:"))
+f= c*(9/5)+32
+print(f)
 
 # problem8
 # m = int(input("Enter the minutes:"))
