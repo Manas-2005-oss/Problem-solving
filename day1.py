@@ -24,10 +24,10 @@ a = a-b
 print(a,b)
 
 # problem4
-# l = 10
-# b = 5
-# area_of_rectangle = l * b
-# print(area_of_rectangle,"cm^2")
+l = 10
+b = 5
+area_of_rectangle = l * b
+print(area_of_rectangle,"cm^2")
 
 # problem5
 # Principal = (int(input("Enter principal amount:")))
