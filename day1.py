@@ -14,14 +14,14 @@ b = temp
 print(a, b)
 
 # problem3
-# a = 5
-# b = 10
-# a = a+b
-# print(a,b)
-# b = a-b
-# print(a,b)
-# a = a-b
-# print(a,b)
+a = 5
+b = 10
+a = a+b
+print(a,b)
+b = a-b
+print(a,b)
+a = a-b
+print(a,b)
 
 # problem4
 # l = 10
