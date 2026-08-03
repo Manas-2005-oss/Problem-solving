@@ -58,13 +58,14 @@ while (i<11):
     print(f"{any} x {i} = {any*i}")
     i+=1
   
-# n = int(input("Enter the number: "))
-# i= 1
-# sum =0 
-# while (i<=n):
-#     sum +=i
-#     i+=1
-# print(sum)
+#sum of digits
+n = int(input("Enter the number: "))
+i= 1
+sum =0 
+while (i<=n):
+    sum +=i
+    i+=1
+print(sum)
 
 # factorial
 # n= int(input("Enter the number: "))
