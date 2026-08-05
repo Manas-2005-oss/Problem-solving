@@ -1,10 +1,10 @@
 # 'File I/O'
 
-# # Open a file for reading
-# # f= open("file.txt")
-# # b=f.read()
-# # print(b)
-# # f.close()
+Open a file for reading
+f= open("file.txt")
+b=f.read()
+print(b)
+f.close()
 
 # # Open file for Reading
 # b = "Manas Ippalpalli is Senior Developer who earning with package in crores and happily enjoying is life with his family and friends"
