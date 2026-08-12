@@ -47,11 +47,11 @@ c = int(input("Enter the temperature in celsius:"))
 f= c*(9/5)+32
 print(f)
 
-# problem8
-# m = int(input("Enter the minutes:"))
-# hours = m // 60
-# remaining_minutes = m % 60
-# print(f"Hours are {hours}, and minutes are {remaining_minutes}")
+problem8
+m = int(input("Enter the minutes:"))
+hours = m // 60
+remaining_minutes = m % 60
+print(f"Hours are {hours}, and minutes are {remaining_minutes}")
 
 # problem9
 a = (int(input("Enter no of a:")))
