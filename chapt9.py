@@ -14,14 +14,14 @@ f.write(b)
 f.close()
 
 
-# 1.
-# f = open ("file.txt")
-# c =f.read()
-# if "twinkle" in c:
-#     print("Twinkle is present in the file")
-# else:
-#     print("not present")
-# f.close()
+1.
+f = open ("file.txt")
+c =f.read()
+if "twinkle" in c:
+    print("Twinkle is present in the file")
+else:
+    print("not present")
+f.close()
 
 # 2.
 import random
