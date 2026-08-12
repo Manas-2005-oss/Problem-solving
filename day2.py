@@ -1,9 +1,9 @@
 # # problem1
-# n =int(input("Enter the number:"))
-# if n % 2 == 0:
-#     print("Even")
-# else:
-#     print("Odd")
+n =int(input("Enter the number:"))
+if n % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
 
 # # problem2
 # n=int(input("Enter the number: "))
