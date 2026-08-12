@@ -24,15 +24,15 @@ elif a==b:
 else:
     print("b is greater than a")
 
-# # # problem4
-# a = int(input("Enter the first number: "))
-# b = int(input("Enter the second number: "))
-# if a<b:
-#     print("a is lesser than b")
-# elif a==b:
-#     print("Both are equal")
-# else:
-#     print("b is lesser than a")
+# problem4
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+if a<b:
+    print("a is lesser than b")
+elif a==b:
+    print("Both are equal")
+else:
+    print("b is lesser than a")
 
 
 # # problem5
