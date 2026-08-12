@@ -7,11 +7,11 @@ print(b)
 f.close()
 
 # # Open file for Reading
-# b = "Manas Ippalpalli is Senior Developer who earning with package in crores and happily enjoying is life with his family and friends"
+b = "Manas Ippalpalli is Senior Developer who earning with package in crores and happily enjoying is life with his family and friends"
 
-# f = open("filee.txt", "w")
-# f.write(b)
-# f.close()
+f = open("filee.txt", "w")
+f.write(b)
+f.close()
 
 
 # 1.
