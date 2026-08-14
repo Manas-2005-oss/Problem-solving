@@ -1,0 +1,79 @@
+# def greet():
+#     print("Welcome to dsa")
+# greet()
+# greet()
+# greet()
+
+# def stars():
+#     print("*****")
+# stars()
+# stars()
+
+# def greet():
+#     print("Hello, Manas")
+# greet()
+# greet()
+# greet()
+# greet()
+# greet()
+
+
+
+
+# def greet(name):
+#     print("Hello", name)
+# greet("Manas")
+# greet("L")
+# greet("V")
+
+# def square(n):
+#     print(n*n)
+# square(5)
+
+# def add(a,b):
+#     print(a+b)
+# add(2,6)
+# add(10,5)
+
+# return statement 
+# def add(a,b):
+#     return a + b
+# result = add(5,5)
+# print(result)
+
+# def cube(n):
+#     return n*n*n
+# x= cube(9)
+# print(x)
+# def square(n):
+#     return n * n
+#     print("Done")
+
+# print(square(4))
+
+
+# factorial
+# def fact(n):
+#  if (n==0) or (n==1):
+#     return 1
+#  else:
+#     return n * fact(n-1)
+ 
+# n = fact(5)
+# print(n)
+
+# fibonacci series
+# def fibo(f):
+#     if f==0 or f==1:
+#         return f    
+#     else:
+#         return fibo(f-1) + fibo(f-2)
+# print(fibo(6))
+
+# sum of n natural no
+def sum(n):
+    if n==0:
+        return 0
+    else:
+        return n + sum(n-1)
+print(sum(5))
