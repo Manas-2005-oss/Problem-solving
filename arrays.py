@@ -26,10 +26,28 @@
 
 
 
-import numpy as np
-array = np.array([1,2,3,4,5])
-total = 0
-for num in array:
-    total= total+num
+# import numpy as np
+# array = np.array([1,2,3,4,5])
+# total = 0
+# for num in array:
+#     total= total+num
     
-print(total)
+# print(total)
+
+# arr = [5, 10, 15, 20, 25]
+# for num in arr:
+#     print(num)
+
+# sum of arr
+# arr=[5, 10, 15, 20, 25]
+# sum=0
+# for num in arr:
+#     sum+=num
+# print(sum)
+
+arr = [5, 2, 9, 3, 7]
+largest=arr[0]
+for num in arr:
+    if num>largest:
+        largest=num   
+print(largest)
