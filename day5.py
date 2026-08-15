@@ -1,8 +1,8 @@
-def greet():
-    print("Welcome to dsa")
-greet()
-greet()
-greet()
+# def greet():
+#     print("Welcome to dsa")
+# greet()
+# greet()
+# greet()
 
 # def stars():
 #     print("*****")
@@ -45,8 +45,35 @@ greet()
 #     return n*n*n
 # x= cube(9)
 # print(x)
-def square(n):
-    return n * n
-    print("Done")
+# def square(n):
+#     return n * n
+#     print("Done")
 
-print(square(4))
+# print(square(4))
+
+
+# factorial
+# def fact(n):
+#  if (n==0) or (n==1):
+#     return 1
+#  else:
+#     return n * fact(n-1)
+ 
+# n = fact(5)
+# print(n)
+
+# fibonacci series
+# def fibo(f):
+#     if f==0 or f==1:
+#         return f    
+#     else:
+#         return fibo(f-1) + fibo(f-2)
+# print(fibo(6))
+
+# sum of n natural no
+def sum(n):
+    if n==0:
+        return 0
+    else:
+        return n + sum(n-1)
+print(sum(5))

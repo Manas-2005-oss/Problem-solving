@@ -33,6 +33,7 @@ def calculate_grade(total_percentage):
     else:
         print("The grade is F")
 
+
 name = name()
 marks = get_marks()
 percentage = calculate_percentage(marks[0], marks[1], marks[2], marks[3])

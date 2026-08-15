@@ -1,64 +1,64 @@
- # problem1
-name = "Manas"
-age = 21
-branch = "CSM"
-print(name,age,branch)
+# # problem1
+# name = "Manas"
+# age = 21
+# branch = "CSM"
+# print(name,age,branch)
 
 # # problem2
-a = 2
-b = 5
+# a = 2
+# b = 5
 
-temp = a
-a = b
-b = temp
-print(a, b)
+# temp = a
+# a = b
+# b = temp
+# print(a, b)
 
 # problem3
-a = 5
-b = 10
-a = a+b
-print(a,b)
-b = a-b
-print(a,b)
-a = a-b
-print(a,b)
+# a = 5
+# b = 10
+# a = a+b
+# print(a,b)
+# b = a-b
+# print(a,b)
+# a = a-b
+# print(a,b)
 
 # problem4
-l = 10
-b = 5
-area_of_rectangle = l * b
-print(area_of_rectangle,"cm^2")
+# l = 10
+# b = 5
+# area_of_rectangle = l * b
+# print(area_of_rectangle,"cm^2")
 
 # problem5
-Principal = (int(input("Enter principal amount:")))
-Rate = (int(input("Enter rate Interest:")))
-Time = (int(input("Enter time :")))
-simple_Interest = (Principal * Rate * Time)/100
-print(simple_Interest)
+# Principal = (int(input("Enter principal amount:")))
+# Rate = (int(input("Enter rate Interest:")))
+# Time = (int(input("Enter time :")))
+# simple_Interest = (Principal * Rate * Time)/100
+# print(simple_Interest)
 
 
 # problem6
-f = int(input("Enter the temparature in Fahrenheit:"))
-c = 5*(f-32)/9
-print(c)
+# f = int(input("Enter the temparature in Fahrenheit:"))
+# c = 5*(f-32)/9
+# print(c)
 
 # problem7
-c = int(input("Enter the temperature in celsius:"))
-f= c*(9/5)+32
-print(f)
+# c = int(input("Enter the temperature in celsius:"))
+# f= c*(9/5)+32
+# print(f)
 
-problem8
-m = int(input("Enter the minutes:"))
-hours = m // 60
-remaining_minutes = m % 60
-print(f"Hours are {hours}, and minutes are {remaining_minutes}")
+# problem8
+# m = int(input("Enter the minutes:"))
+# hours = m // 60
+# remaining_minutes = m % 60
+# print(f"Hours are {hours}, and minutes are {remaining_minutes}")
 
 # problem9
-a = (int(input("Enter no of a:")))
-b = (int(input("Enter no of b:")))
-c = (int(input("Enter no of c:")))
-d = (int(input("Enter no of d:")))
-e = (int(input("Enter no of e:")))
+# a = (int(input("Enter no of a:")))
+# b = (int(input("Enter no of b:")))
+# c = (int(input("Enter no of c:")))
+# d = (int(input("Enter no of d:")))
+# e = (int(input("Enter no of e:")))
 
 # average = (a+b+c+d+e)/5
 # print("the average of 5 no is",average)

@@ -1,38 +1,38 @@
 # # problem1
-n =int(input("Enter the number:"))
-if n % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
+# n =int(input("Enter the number:"))
+# if n % 2 == 0:
+#     print("Even")
+# else:
+#     print("Odd")
 
-# problem2
-n=int(input("Enter the number: "))
-if n > 0:
-    print("Positive")
-elif n < 0:
-    print("Negative")
-else:
-    print("Zero")
+# # problem2
+# n=int(input("Enter the number: "))
+# if n > 0:
+#     print("Positive")
+# elif n < 0:
+#     print("Negative")
+# else:
+#     print("Zero")
 
 # # problem3
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
-if a>b:
-    print("a is greater than b")
-elif a==b:
-    print("Both are equal")
-else:
-    print("b is greater than a")
+# a = int(input("Enter the first number: "))
+# b = int(input("Enter the second number: "))
+# if a>b:
+#     print("a is greater than b")
+# elif a==b:
+#     print("Both are equal")
+# else:
+#     print("b is greater than a")
 
-# problem4
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
-if a<b:
-    print("a is lesser than b")
-elif a==b:
-    print("Both are equal")
-else:
-    print("b is lesser than a")
+# # # problem4
+# a = int(input("Enter the first number: "))
+# b = int(input("Enter the second number: "))
+# if a<b:
+#     print("a is lesser than b")
+# elif a==b:
+#     print("Both are equal")
+# else:
+#     print("b is lesser than a")
 
 
 # # problem5
@@ -43,48 +43,48 @@ else:
 #     print("not eligible for vote")
 
 # # problem6
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
-c = int(input("Enter the third number: "))
-if a>b and a>c:
-    print(a," is greater ")  
-elif b>c and b>a:
-    print(b," is greater ")
-elif c>a and c>b:
-    print(c," is greater ")
-elif(a==b and a>c):
-    print("a and b are equal and greater than c")
-elif(a==c and a>b):
-    print("a and c are equal and greater than b")
-elif(b==c and b>a):
-    print("b and c are equal and greater than a")
-else:
-    print("all are equal")
+# a = int(input("Enter the first number: "))
+# b = int(input("Enter the second number: "))
+# c = int(input("Enter the third number: "))
+# if a>b and a>c:
+#     print(a," is greater ")  
+# elif b>c and b>a:
+#     print(b," is greater ")
+# elif c>a and c>b:
+#     print(c," is greater ")
+# elif(a==b and a>c):
+#     print("a and b are equal and greater than c")
+# elif(a==c and a>b):
+#     print("a and c are equal and greater than b")
+# elif(b==c and b>a):
+#     print("b and c are equal and greater than a")
+# else:
+#     print("all are equal")
 
 
 # # problem7
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
-c = int(input("Enter the third number: "))
-if a<b and a<c:
-    print(a," is lesser ")
-elif b<c and b<a:
-    print(b," is lesser ")
-elif c<a and c<b:
-    print(c," is lesser ")
-elif(a==b and a<c):
-    print("a and b are equal and lesser than c")
-elif(c==b and c<a):
-    print("c and b are equal and lesser than a")
-elif(a==c and a<b):
-    print("a and c are equal and lesser than b")
+# a = int(input("Enter the first number: "))
+# b = int(input("Enter the second number: "))
+# c = int(input("Enter the third number: "))
+# if a<b and a<c:
+#     print(a," is lesser ")
+# elif b<c and b<a:
+#     print(b," is lesser ")
+# elif c<a and c<b:
+#     print(c," is lesser ")
+# elif(a==b and a<c):
+#     print("a and b are equal and lesser than c")
+# elif(c==b and c<a):
+#     print("c and b are equal and lesser than a")
+# elif(a==c and a<b):
+#     print("a and c are equal and lesser than b")
 
 # # problem8
-year = int(input("Enter a year:"))
-if year % 4 == 0 and year % 100 !=0 or year % 400 == 0 :
-    print("It is a leap year")
-else:
-    print("It is not a leap year")
+# year = int(input("Enter a year:"))
+# if year % 4 == 0 and year % 100 !=0 or year % 400 == 0 :
+#     print("It is a leap year")
+# else:
+#     print("It is not a leap year")
 
 # # problem9
 # word = (input("Enter a letter:"))
