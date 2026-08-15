@@ -1,8 +1,8 @@
-# def greet():
-#     print("Welcome to dsa")
-# greet()
-# greet()
-# greet()
+def greet():
+    print("Welcome to dsa")
+greet()
+greet()
+greet()
 
 # def stars():
 #     print("*****")
