@@ -4,10 +4,10 @@ greet()
 greet()
 greet()
 
-# def stars():
-#     print("*****")
-# stars()
-# stars()
+def stars():
+    print("*****")
+stars()
+stars()
 
 # def greet():
 #     print("Hello, Manas")
