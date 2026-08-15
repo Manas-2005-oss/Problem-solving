@@ -9,13 +9,13 @@ def stars():
 stars()
 stars()
 
-# def greet():
-#     print("Hello, Manas")
-# greet()
-# greet()
-# greet()
-# greet()
-# greet()
+def greet():
+    print("Hello, Manas")
+greet()
+greet()
+greet()
+greet()
+greet()
 
 
 
