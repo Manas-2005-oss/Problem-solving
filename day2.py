@@ -6,13 +6,13 @@ else:
     print("Odd")
 
 # # problem2
-# n=int(input("Enter the number: "))
-# if n > 0:
-#     print("Positive")
-# elif n < 0:
-#     print("Negative")
-# else:
-#     print("Zero")
+n=int(input("Enter the number: "))
+if n > 0:
+    print("Positive")
+elif n < 0:
+    print("Negative")
+else:
+    print("Zero")
 
 # # problem3
 # a = int(input("Enter the first number: "))
