@@ -36,11 +36,11 @@ else:
 
 
 # # problem5
-# age = int(input("Enter your age:"))
-# if(age>=18):
-#     print("eligible for vote")
-# else:
-#     print("not eligible for vote")
+age = int(input("Enter your age:"))
+if(age>=18):
+    print("eligible for vote")
+else:
+    print("not eligible for vote")
 
 # # problem6
 # a = int(input("Enter the first number: "))
