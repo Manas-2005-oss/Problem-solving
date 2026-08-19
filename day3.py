@@ -15,11 +15,11 @@ while i <=20:
     print(i)
     i+=2
 
-# problem4
-# i = 1 
-# while i <=20:
-#     print(i)
-#     i+=2
+problem4
+i = 1 
+while i <=20:
+    print(i)
+    i+=2
 
 
 # problem5
