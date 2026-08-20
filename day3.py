@@ -90,13 +90,13 @@ while n!=0:
 print(reverse_no)
 
 # palindrome
-# n = (input("enter digits: "))
-# original = n 
-# reverse_no = 0
-# while n!=0:
-#     digit = n%10
-#     reverse_no = (reverse_no*10) + digit
-#     n = n//10
+n = (input("enter digits: "))
+original = n 
+reverse_no = 0
+while n!=0:
+    digit = n%10
+    reverse_no = (reverse_no*10) + digit
+    n = n//10
      
 # if (original == reverse_no):
 #         print("It is palindrome")
