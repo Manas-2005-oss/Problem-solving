@@ -98,10 +98,10 @@ while n!=0:
     reverse_no = (reverse_no*10) + digit
     n = n//10
      
-# if (original == reverse_no):
-#         print("It is palindrome")
-# else:
-#         print("not a palindrome")
+if (original == reverse_no):
+        print("It is palindrome")
+else:
+        print("not a palindrome")
 
 
 # factorial
