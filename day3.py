@@ -81,13 +81,13 @@ print(total)
 
 
 # reverse a no 
-# n = int(input("enter digits:"))
-# reverse_no = 0
-# while n!=0:
-#     digit = n%10
-#     reverse_no = (reverse_no*10) + digit
-#     n = n//10
-# print(reverse_no)
+n = int(input("enter digits:"))
+reverse_no = 0
+while n!=0:
+    digit = n%10
+    reverse_no = (reverse_no*10) + digit
+    n = n//10
+print(reverse_no)
 
 # palindrome
 # n = (input("enter digits: "))
