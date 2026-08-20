@@ -56,12 +56,12 @@ print(" The total digits are", count)
 
 
 # sum of the digits
-# n = int(input("Enter the digits"))
-# sum = 0
-# while n>0:
-#     sum +=n%10
-#     n = n//10
-# print(sum)
+n = int(input("Enter the digits"))
+sum = 0
+while n>0:
+    sum +=n%10
+    n = n//10
+print(sum)
 
 
 
