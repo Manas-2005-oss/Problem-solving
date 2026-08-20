@@ -39,12 +39,12 @@ while (i<=n):
 print(sum)
 
 
-# multiplication
-# n = int(input("Enter a no :"))
-# i = 1
-# while (i<=10):
-#     print(f"{n} x {i}= {n*i}")
-#     i+=1
+multiplication
+n = int(input("Enter a no :"))
+i = 1
+while (i<=10):
+    print(f"{n} x {i}= {n*i}")
+    i+=1
     
 # count of digits
 # num=int(input("Enter the no digits:"))
