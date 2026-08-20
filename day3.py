@@ -72,12 +72,12 @@ while n>0:
     sum+=1
 print(sum)
 
-# n = int(input("enter the digits:"))
-# total = 0
-# while n>0:
-#     total+=n%10
-#     n=n//10
-# print(total)
+n = int(input("enter the digits:"))
+total = 0
+while n>0:
+    total+=n%10
+    n=n//10
+print(total)
 
 
 # reverse a no 
