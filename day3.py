@@ -47,12 +47,12 @@ while (i<=10):
     i+=1
     
 # count of digits
-# num=int(input("Enter the no digits:"))
-# count = 0
-# while num>0:
-#     num//=10
-#     count+=1
-# print(" The total digits are", count)
+num=int(input("Enter the no digits:"))
+count = 0
+while num>0:
+    num//=10
+    count+=1
+print(" The total digits are", count)
 
 
 # sum of the digits
