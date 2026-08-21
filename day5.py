@@ -41,15 +41,15 @@ def add(a,b):
 result = add(5,5)
 print(result)
 
-# def cube(n):
-#     return n*n*n
-# x= cube(9)
-# print(x)
-# def square(n):
-#     return n * n
-#     print("Done")
+def cube(n):
+    return n*n*n
+x= cube(9)
+print(x)
+def square(n):
+    return n * n
+    print("Done")
 
-# print(square(4))
+print(square(4))
 
 
 # factorial
