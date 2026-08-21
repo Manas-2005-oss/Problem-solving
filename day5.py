@@ -30,10 +30,10 @@ def square(n):
     print(n*n)
 square(5)
 
-# def add(a,b):
-#     print(a+b)
-# add(2,6)
-# add(10,5)
+def add(a,b):
+    print(a+b)
+add(2,6)
+add(10,5)
 
 # return statement 
 # def add(a,b):
