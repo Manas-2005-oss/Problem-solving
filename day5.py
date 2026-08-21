@@ -20,11 +20,11 @@ greet()
 
 
 
-# def greet(name):
-#     print("Hello", name)
-# greet("Manas")
-# greet("L")
-# greet("V")
+def greet(name):
+    print("Hello", name)
+greet("Manas")
+greet("L")
+greet("V")
 
 # def square(n):
 #     print(n*n)
