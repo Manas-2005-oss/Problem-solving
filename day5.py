@@ -26,9 +26,9 @@ greet("Manas")
 greet("L")
 greet("V")
 
-# def square(n):
-#     print(n*n)
-# square(5)
+def square(n):
+    print(n*n)
+square(5)
 
 # def add(a,b):
 #     print(a+b)
