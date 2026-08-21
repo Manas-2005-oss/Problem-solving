@@ -22,12 +22,12 @@ for row in range(5,0,-1):
 
 # pattern2
 
-# for row in range(1,6):
+for row in range(1,6):
 
-#     for star in range(1, row + 1):
+    for star in range(1, row + 1):
 
-#         print(star,end="")
-#     print()
+        print(star,end="")
+    print()
 
 # for row in range(1,6):
 
