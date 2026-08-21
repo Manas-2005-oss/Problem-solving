@@ -35,11 +35,11 @@ def add(a,b):
 add(2,6)
 add(10,5)
 
-# return statement 
-# def add(a,b):
-#     return a + b
-# result = add(5,5)
-# print(result)
+return statement 
+def add(a,b):
+    return a + b
+result = add(5,5)
+print(result)
 
 # def cube(n):
 #     return n*n*n
