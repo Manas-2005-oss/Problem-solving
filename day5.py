@@ -63,12 +63,12 @@ n = fact(5)
 print(n)
 
 # fibonacci series
-# def fibo(f):
-#     if f==0 or f==1:
-#         return f    
-#     else:
-#         return fibo(f-1) + fibo(f-2)
-# print(fibo(6))
+def fibo(f):
+    if f==0 or f==1:
+        return f    
+    else:
+        return fibo(f-1) + fibo(f-2)
+print(fibo(6))
 
 # sum of n natural no
 def sum(n):
