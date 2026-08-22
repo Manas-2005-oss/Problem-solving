@@ -5,4 +5,4 @@ print(sentence[0:4])
 print(sentence.lower())
 print(sentence.upper())
 print(sentence.replace("a","A"))
-
+print(sentence.count("a"))
