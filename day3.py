@@ -12,7 +12,7 @@ while i>=1:
 problem3
 i = 2 
 while i <=20:
-    print(i)
+    print(i) 
     i+=2
 
 problem4
