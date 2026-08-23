@@ -7,6 +7,7 @@ for ch in range(5,-1,-1):
 s= "python"
 print(s[::-1])
 
+# checking a string is palindrome or not
 s= "python"
 if s ==s[::-1]:
     print("palindrome")
