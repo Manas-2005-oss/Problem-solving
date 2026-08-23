@@ -2,8 +2,8 @@ s = "python"
 for ch in range(5,-1,-1):
     print(s[ch], end="")
 
-# s= "python"
-# print(s[::-1])
+s= "python"
+print(s[::-1])
 
 # s= "python"
 # if s ==s[::-1]:
