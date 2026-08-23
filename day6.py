@@ -3,6 +3,7 @@ s = "python"
 for ch in range(5,-1,-1):
     print(s[ch], end="")
 
+# reverse a string using string method
 s= "python"
 print(s[::-1])
 
