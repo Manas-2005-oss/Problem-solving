@@ -34,16 +34,16 @@ for num in array:
     
 print(total)
 
-# arr = [5, 10, 15, 20, 25]
-# for num in arr:
-#     print(num)
+arr = [5, 10, 15, 20, 25]
+for num in arr:
+    print(num)
 
-# sum of arr
-# arr=[5, 10, 15, 20, 25]
-# sum=0
-# for num in arr:
-#     sum+=num
-# print(sum)
+sum of arr
+arr=[5, 10, 15, 20, 25]
+sum=0
+for num in arr:
+    sum+=num
+print(sum)
 
 arr = [5, 2, 9, 3, 7]
 largest=arr[0]
