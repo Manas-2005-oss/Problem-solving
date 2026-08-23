@@ -5,11 +5,11 @@ for ch in range(5,-1,-1):
 s= "python"
 print(s[::-1])
 
-# s= "python"
-# if s ==s[::-1]:
-#     print("palindrome")
-# else:
-#     print("not palindrome")
+s= "python"
+if s ==s[::-1]:
+    print("palindrome")
+else:
+    print("not palindrome")
 
 s = int(input("enter digits :"))
 count=0
