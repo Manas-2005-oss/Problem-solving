@@ -26,13 +26,13 @@ print(avg)
 
 
 
-# import numpy as np
-# array = np.array([1,2,3,4,5])
-# total = 0
-# for num in array:
-#     total= total+num
+import numpy as np
+array = np.array([1,2,3,4,5])
+total = 0
+for num in array:
+    total= total+num
     
-# print(total)
+print(total)
 
 # arr = [5, 10, 15, 20, 25]
 # for num in arr:
