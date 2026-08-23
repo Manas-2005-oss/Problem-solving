@@ -1,3 +1,4 @@
+# reverse the string
 s = "python"
 for ch in range(5,-1,-1):
     print(s[ch], end="")
