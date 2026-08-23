@@ -14,6 +14,7 @@ if s ==s[::-1]:
 else:
     print("not palindrome")
 
+# counting the digits
 s = int(input("enter digits :"))
 count=0
 
