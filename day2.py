@@ -63,21 +63,21 @@ else:
 
 
 # # problem7
-# a = int(input("Enter the first number: "))
-# b = int(input("Enter the second number: "))
-# c = int(input("Enter the third number: "))
-# if a<b and a<c:
-#     print(a," is lesser ")
-# elif b<c and b<a:
-#     print(b," is lesser ")
-# elif c<a and c<b:
-#     print(c," is lesser ")
-# elif(a==b and a<c):
-#     print("a and b are equal and lesser than c")
-# elif(c==b and c<a):
-#     print("c and b are equal and lesser than a")
-# elif(a==c and a<b):
-#     print("a and c are equal and lesser than b")
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+c = int(input("Enter the third number: "))
+if a<b and a<c:
+    print(a," is lesser ")
+elif b<c and b<a:
+    print(b," is lesser ")
+elif c<a and c<b:
+    print(c," is lesser ")
+elif(a==b and a<c):
+    print("a and b are equal and lesser than c")
+elif(c==b and c<a):
+    print("c and b are equal and lesser than a")
+elif(a==c and a<b):
+    print("a and c are equal and lesser than b")
 
 # # problem8
 # year = int(input("Enter a year:"))
