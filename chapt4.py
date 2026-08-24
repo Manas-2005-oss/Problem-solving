@@ -1,16 +1,16 @@
 # lists
 
-# list = input("Enter 7 fruits names :")
-# print(list.split(","))
+list = input("Enter 7 fruits names :")
+print(list.split(","))
 
-'''list = [1,5,2,66,9,8,10,100]
-# list.sort()
-# list.reverse()
-# list.insert(5,50)
-# list.pop(5)
-# list.append(500)
-# list.remove(100)
-print(list)'''
+'list = [1,5,2,66,9,8,10,100]
+list.sort()
+list.reverse()
+list.insert(5,50)
+list.pop(5)
+list.append(500)
+list.remove(100)
+print(list)
 
 # tuples 
 '''tuple =(1,"am",5,7 )
