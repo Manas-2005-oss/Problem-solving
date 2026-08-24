@@ -13,12 +13,12 @@ list.remove(100)
 print(list)
 
 # tuples 
-'''tuple =(1,"am",5,7 )
+tuple =(1,"am",5,7 )
 print(tuple)
 print(type(tuple))
 t=tuple.count("am")
 print(t)
-print(tuple.count("am"))'''
+print(tuple.count("am"))
 
 fruits =[]
 
