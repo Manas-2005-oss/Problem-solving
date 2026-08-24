@@ -101,13 +101,13 @@ else:
     print("It is not divisible by 5 and 11")
 
 # problem12
-# angle1 = int(input("Enter the first angle: "))
-# angle2 = int(input("Enter the second angle: "))
-# angle3 = int(input("Enter the third angle: "))
-# if (angle1 + angle2 + angle3 ==180) and (angle1>0 and angle2>0 and angle3>0):
-#     print(f"the sum is {angle1+angle2+angle3} and it can form triangle")
-# else:
-#     print(f"the sum is {angle1+angle2+angle3} and cannot form triangle")
+angle1 = int(input("Enter the first angle: "))
+angle2 = int(input("Enter the second angle: "))
+angle3 = int(input("Enter the third angle: "))
+if (angle1 + angle2 + angle3 ==180) and (angle1>0 and angle2>0 and angle3>0):
+    print(f"the sum is {angle1+angle2+angle3} and it can form triangle")
+else:
+    print(f"the sum is {angle1+angle2+angle3} and cannot form triangle")
 
 
 
