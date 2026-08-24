@@ -94,11 +94,11 @@ else:
     print("It is a consonant")
 
 # # problem10
-# n = int(input("Enter a no:"))
-# if n % 5 == 0 and n % 11 == 0:
-#     print("It is divisible by both 5 and 11")
-# else:
-#     print("It is not divisible by 5 and 11")
+n = int(input("Enter a no:"))
+if n % 5 == 0 and n % 11 == 0:
+    print("It is divisible by both 5 and 11")
+else:
+    print("It is not divisible by 5 and 11")
 
 # problem12
 # angle1 = int(input("Enter the first angle: "))
