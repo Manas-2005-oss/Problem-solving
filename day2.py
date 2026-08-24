@@ -87,11 +87,11 @@ else:
     print("It is not a leap year")
 
 # # problem9
-# word = (input("Enter a letter:"))
-# if word in ("a", "e", "i", "o", "u"):
-#     print("It is a vowel")
-# else:
-#     print("It is a consonant")
+word = (input("Enter a letter:"))
+if word in ("a", "e", "i", "o", "u"):
+    print("It is a vowel")
+else:
+    print("It is a consonant")
 
 # # problem10
 # n = int(input("Enter a no:"))
