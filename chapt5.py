@@ -37,7 +37,7 @@ print(s)
 s = set()
 s.add(18)
 s.add("18")
-print(s)'''
+print(s)
 """
 d={}
 name=input("Enter the name: ")
