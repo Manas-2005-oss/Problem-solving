@@ -50,7 +50,7 @@ marks.append(m4)
 m5 = int(input("Enter marks for student 5: "))
 marks.append(m5)
 marks.sort()
-print(marks)'''
+print(marks)
 
 # list sum
 l1 = [5,6,7,8]
