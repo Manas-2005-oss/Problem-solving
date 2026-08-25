@@ -38,7 +38,7 @@ f5 = input("Enter  fruits names :")
 fruits.append(f5)
 print(fruits)
 
-'''marks = []
+marks = []
 m1 = int(input("Enter marks for student 1: "))
 marks.append(m1)
 m2 = int(input("Enter marks for student 2: "))
