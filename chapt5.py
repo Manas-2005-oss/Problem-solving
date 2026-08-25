@@ -38,7 +38,7 @@ s = set()
 s.add(18)
 s.add("18")
 print(s)
-"""
+
 d={}
 name=input("Enter the name: ")
 lang = input("Enter the language: ")
