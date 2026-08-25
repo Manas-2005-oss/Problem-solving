@@ -53,8 +53,8 @@ marks.sort()
 print(marks)'''
 
 # list sum
-# l1 = [5,6,7,8]
-# print(sum(l1))
+l1 = [5,6,7,8]
+print(sum(l1))
 
 # tuple count
 a = (7,0,8,0,0,9)
