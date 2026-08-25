@@ -3,7 +3,7 @@
 list = input("Enter 7 fruits names :")
 print(list.split(","))
 
-'list = [1,5,2,66,9,8,10,100]
+list = [1,5,2,66,9,8,10,100]
 list.sort()
 list.reverse()
 list.insert(5,50)
