@@ -31,7 +31,7 @@ n = int(input("Enter the number of elements: "))
 s.add(n)
 n = int(input("Enter the number of elements: "))
 s.add(n)
-print(s)"""
+print(s)
 
 '''
 s = set()
