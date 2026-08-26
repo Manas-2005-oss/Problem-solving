@@ -22,7 +22,7 @@ else:
     print("b is greater than a")
 
 
-"""
+
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 c = int(input("Enter the third number: "))
@@ -32,7 +32,7 @@ elif b>c and b>a:
     print(b," is greater ")
 else:
     print(c," is greater ")"""
-'''
+
 list = [1,2,3,4,5,6,7,8,9]
 no = int(input("Enter the number: "))
 if no in list:
