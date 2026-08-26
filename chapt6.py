@@ -41,7 +41,6 @@ else:    print("Number is not present in the list")'''
 
 
 # greatest of 4 numbers
-'''
 a1 = int(input("Enter the first number: "))
 a2 = int(input("Enter the second number: "))
 a3 = int(input("Enter the third number: "))
@@ -58,7 +57,7 @@ else:
     print(a4," is the greatest number")'''
 
 # find pass or fail
-'''
+
 m1 = int(input("Enter marks m1:"))
 m2 = int(input("Enter marks m2:"))
 m3 = int(input("Enter marks m3:"))
