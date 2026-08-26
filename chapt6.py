@@ -38,7 +38,7 @@ list = [1,2,3,4,5,6,7,8,9]
 no = int(input("Enter the number: "))
 if no in list:
     print("Number is present in the list")
-else:    print("Number is not present in the list")'''
+else:    print("Number is not present in the list")
 
 
 # greatest of 4 numbers
@@ -55,7 +55,7 @@ elif (a2> a1 and a2> a3 and a2> a4):
 elif (a3> a1 and a3> a2 and a3> a4):
     print(a3," is the greatest number")
 else:
-    print(a4," is the greatest number")'''
+    print(a4," is the greatest number")
 
 # find pass or fail
 
