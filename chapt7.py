@@ -4,8 +4,8 @@ while (i<51):
     print(i)
     i += 1 
 
-# for i in range(1,51):
-#     print(i)
+for i in range(1,51):
+    print(i)
 # #  list printing
 # 
 # l1 =[1,2,"manas","manas","lokesh","sai","rohit",8,9]
