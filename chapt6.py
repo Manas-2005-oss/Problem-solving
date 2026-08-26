@@ -68,7 +68,7 @@ total_percantage = (m1+m2+m3)/300*100
 if (total_percantage >=40):
     print("Pass")
 else:    
-    print("Fail")'''
+    print("Fail")
 
 
 # detection of spam
