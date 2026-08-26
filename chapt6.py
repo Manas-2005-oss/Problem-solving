@@ -31,8 +31,9 @@ if a>b and a>c:
 elif b>c and b>a:
     print(b," is greater ")
 else:
-    print(c," is greater ")"""
+    print(c," is greater ")
 
+# checking  no is present in list or not
 list = [1,2,3,4,5,6,7,8,9]
 no = int(input("Enter the number: "))
 if no in list:
