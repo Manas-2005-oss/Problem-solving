@@ -72,14 +72,14 @@ else:
 
 
 # detection of spam
-'''
+
 p1= "make a lot of money"
 p= "but now"
 comment = input("Enter a comment:")
 if (p1 in comment) or (p in comment):
     print ("This is a spam message")
 else:
-    print("This is not a spam message")'''
+    print("This is not a spam message")
 
 
 # username less than 10 characters
