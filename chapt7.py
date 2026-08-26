@@ -14,9 +14,9 @@ while (i < len(l1)):
     print(l1[i])
     i += 1
 
-# l1 =(1,2,"manas","manas","lokesh","sai","rohit",8,9)
-# for item in l1:
-#     print(item)
+l1 =(1,2,"manas","manas","lokesh","sai","rohit",8,9)
+for item in l1:
+    print(item)
 
 # break statement
 # for i in range(1,50,2):
