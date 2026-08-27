@@ -47,11 +47,11 @@ for i in l:
     if i.startswith("M"):
         print(i)
 
-# any = int(input("enter the number"))
-# i=1
-# while (i<11):
-#     print(f"{any} x {i} = {any*i}")
-#     i+=1
+any = int(input("enter the number"))
+i=1
+while (i<11):
+    print(f"{any} x {i} = {any*i}")
+    i+=1
   
 # n = int(input("Enter the number: "))
 # i= 1
