@@ -30,9 +30,9 @@ for i in range(1,50):
         continue
     print(i)
 
-# pass 
-# for i in range (0,10):
-#     pass
+pass 
+for i in range (0,10):
+    pass
 
 # i=0 
 # while(i<10):
