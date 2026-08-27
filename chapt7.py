@@ -34,10 +34,10 @@ pass
 for i in range (0,10):
     pass
 
-# i=0 
-# while(i<10):
-#     print(i)
-#     i+=1
+i=0 
+while(i<10):
+    print(i)
+    i+=1
 
 # any = int(input("enter the number"))
 # for i in range (1,11):
