@@ -39,13 +39,13 @@ while(i<10):
     print(i)
     i+=1
 
-# any = int(input("enter the number"))
-# for i in range (1,11):
-#     print(f"{any} x {i} = {any*i}")
-# l = ["Manas","Rohit","Man","Lokesh","sai"]
-# for i in l:
-#     if i.startswith("M"):
-#         print(i)
+any = int(input("enter the number"))
+for i in range (1,11):
+    print(f"{any} x {i} = {any*i}")
+l = ["Manas","Rohit","Man","Lokesh","sai"]
+for i in l:
+    if i.startswith("M"):
+        print(i)
 
 # any = int(input("enter the number"))
 # i=1
