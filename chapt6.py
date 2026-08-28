@@ -3,7 +3,6 @@ if n % 2 == 0:
     print("Even")
 else:
     print("Odd")
-
 n=int(input("Enter the number: "))
 if n > 0:
     print("Positive")
@@ -15,10 +14,8 @@ else:
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 if a>b :
-
     print("a is greater than b")
 else:
-
     print("b is greater than a")
 
 
