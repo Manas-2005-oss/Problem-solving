@@ -5,7 +5,7 @@ d={
 }
 dict=(input("Enter the key: "))
 print(d[dict])
-
+      
 # set
 
 s = {1,5,7,8,9,2,6,10}
