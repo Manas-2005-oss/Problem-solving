@@ -7,7 +7,6 @@ print(x+y)
 print(" the remainder of x divide by y is ", x%y)
 
 #pg3
-
 x = input("enter the value of x: ")
 print("the value of x is ", x)
 print("the type of x is ", type(x)) 
