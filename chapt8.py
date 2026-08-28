@@ -1,14 +1,14 @@
 # Functions
-# def greet_user():
-#     print("Hi")
-# greet_user()
+ def greet_user():
+     print("Hi")
+ greet_user()
 
 # passing arguments to functions
-# def greet(name,end):
-#     print("Good morning," +name )
-#     print(end)
-# greet("Manas", "Thank you")
-# greet("Sai", "Thank you")
+def greet(name,end):
+    print("Good morning," +name )
+     print(end)
+ greet("Manas", "Thank you")
+ greet("Sai", "Thank you")
 
 # with return statement
 # def greet(name,end):
