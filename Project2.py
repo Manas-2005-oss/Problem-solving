@@ -14,6 +14,8 @@ def calculate_percentage(maths,history,marathi,hindi):
     print("Total Percentage is:", total_percentage)
     return total_percentage
 
+
+
 def calculate_avg(maths,history,marathi,hindi):
     avg = (maths+history+marathi+hindi)/4
     print("average marks is:",avg)
