@@ -71,11 +71,11 @@ def sum(n):
 
 print(sum(4))
 
-# def pattern(n):
-#     if n==0:
-#         return
-#     print("*"*n)
-#     pattern(n-1)
+def pattern(n):
+    if n==0:
+        return
+    print("*"*n)
+    pattern(n-1)
 
 # pattern(5)
 
