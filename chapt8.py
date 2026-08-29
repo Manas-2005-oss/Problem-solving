@@ -59,8 +59,8 @@ def c_to_f(f):
     c = 5*(f-32)/9
     return c
 
-# f = int(input("Enter the temperature in fahrenheit:"))
-# print(c_to_f(f), "°C")
+f = int(input("Enter the temperature in fahrenheit:"))
+print(c_to_f(f), "°C")
 
 # sum of n natural numbbers 
 # def sum(n):
