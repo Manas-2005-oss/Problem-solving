@@ -10,11 +10,11 @@ def greet(name,end):
  greet("Manas", "Thank you")
  greet("Sai", "Thank you")
 
-# with return statement
-# def greet(name,end):
-#     print("Good morning," +name )
-#     print(end)
-#     return "Done executed"
+with return statement
+def greet(name,end):
+    print("Good morning," +name )
+    print(end)
+    return "Done executed"
 
 # a = greet("Manas", "Thank you")
 # b = greet("Sai", "Thank you")
