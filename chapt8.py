@@ -16,10 +16,10 @@ def greet(name,end):
     print(end)
     return "Done executed"
 
-# a = greet("Manas", "Thank you")
-# b = greet("Sai", "Thank you")
-# print(a)
-# print(b)
+a = greet("Manas", "Thank you")
+b = greet("Sai", "Thank you")
+print(a)
+print(b)
 
 # default arguments/parameters
 # def greet_user(name,end="Thank you"):
