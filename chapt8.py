@@ -69,7 +69,7 @@ def sum(n):
     return sum (n-1)+n
 
 
-# print(sum(4))
+print(sum(4))
 
 # def pattern(n):
 #     if n==0:
