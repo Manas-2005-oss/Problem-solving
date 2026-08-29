@@ -34,8 +34,8 @@ def fact(n):
         return 1
     return n * fact (n-1)
 
-# n = int(input("Enter a number:"))
-# print(f"Factorial of no {n} is {fact(n)}")
+n = int(input("Enter a number:"))
+print(f"Factorial of no {n} is {fact(n)}")
 
 
 # Greatest of 3 numbers
