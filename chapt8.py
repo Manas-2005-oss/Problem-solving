@@ -55,9 +55,9 @@ print(f"The greatest no in {a}, {b}, {c} is {greatest(a,b,c)}")
 # celsus to fahrenheit
 # c = 5*(f-32)/9
 
-# def c_to_f(f):
-#     c = 5*(f-32)/9
-#     return c
+def c_to_f(f):
+    c = 5*(f-32)/9
+    return c
 
 # f = int(input("Enter the temperature in fahrenheit:"))
 # print(c_to_f(f), "°C")
