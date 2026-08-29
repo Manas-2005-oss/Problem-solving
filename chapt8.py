@@ -22,11 +22,11 @@ print(a)
 print(b)
 
 # default arguments/parameters
-# def greet_user(name,end="Thank you"):
-#     print("Hi,"+name)
-#     print(end)
-# greet_user("Manas")
-# greet_user("Sai","Have a nice day")
+def greet_user(name,end="Thank you"):
+    print("Hi,"+name)
+    print(end)
+greet_user("Manas")
+greet_user("Sai","Have a nice day")
 
 # recurrsion
 # def fact(n):
