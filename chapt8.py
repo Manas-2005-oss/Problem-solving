@@ -29,10 +29,10 @@ greet_user("Manas")
 greet_user("Sai","Have a nice day")
 
 # recurrsion
-# def fact(n):
-#     if n==0 or n==1:
-#         return 1
-#     return n * fact (n-1)
+def fact(n):
+    if n==0 or n==1:
+        return 1
+    return n * fact (n-1)
 
 # n = int(input("Enter a number:"))
 # print(f"Factorial of no {n} is {fact(n)}")
