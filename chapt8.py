@@ -47,10 +47,10 @@ def greatest(a,b,c):
     else:
         return c
 
-# a = int(input("Enter the first no:"))
-# b = int(input("Enter the second no:"))
-# c = int(input("Enter the Third no:"))
-# print(f"The greatest no in {a}, {b}, {c} is {greatest(a,b,c)}")
+a = int(input("Enter the first no:"))
+b = int(input("Enter the second no:"))
+c = int(input("Enter the Third no:"))
+print(f"The greatest no in {a}, {b}, {c} is {greatest(a,b,c)}")
 
 # celsus to fahrenheit
 # c = 5*(f-32)/9
