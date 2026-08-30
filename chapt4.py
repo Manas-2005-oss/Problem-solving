@@ -1,5 +1,4 @@
 # lists
-
 list = input("Enter 7 fruits names :")
 print(list.split(","))
 
