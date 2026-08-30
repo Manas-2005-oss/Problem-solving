@@ -1,7 +1,7 @@
 # simple students marks calculator using functions and lists
 def name():
     name = input("Enter students name:")
-    print("Student name is:", name)
+    print("Student name is:", name)  
     return name
 def get_marks():
     maths= float(input("Enter marks in maths:"))
