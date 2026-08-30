@@ -8,7 +8,7 @@ if n > 0:
     print("Positive")
 elif n < 0:
     print("Negative")
-else:
+else:  
     print("Zero")
 
 a = int(input("Enter the first number: "))
