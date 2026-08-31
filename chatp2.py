@@ -1,7 +1,7 @@
 #pg1
-"""x=5
+x=5
 y=10
-print(x+y)"""
+print(x+y)
 
 # pg2
 # print(" the remainder of x divide by y is ", x%y)
