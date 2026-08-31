@@ -20,13 +20,13 @@ l1 =(1,2,"manas","manas","lokesh","sai","rohit",8,9)
 for item in l1:
     print(item)
 
-break statement
+# break statement
 for i in range(1,50,2):
     if i ==25:
         break
     print(i)
      
-continue statement
+# continue statement
 for i in range(1,50):
     if i ==25:
         continue
