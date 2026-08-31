@@ -80,10 +80,10 @@ def pattern(n):
 # pattern(5)
 
 # inch to cm 
-# def inch_to_cm(inch):
-#     return inch *2.54
-# inch = int(input("Enter the length in inch:"))
-# print(inch_to_cm(inch),"cm")
+def inch_to_cm(inch):
+    return inch *2.54
+inch = int(input("Enter the length in inch:"))
+print(inch_to_cm(inch),"cm")
 
 # multiplication table
 def table(n):
