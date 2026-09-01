@@ -6,7 +6,6 @@ for num in array:
         max_value = num
 print(max_value)
 
-
 #find min value in array
 import numpy as np
 arr = np.array([9,5,8,2,5])
