@@ -2,7 +2,7 @@
  def greet_user():
      print("Hi")
  greet_user()
-
+      
 # passing arguments to functions
 def greet(name,end):
     print("Good morning," +name )
