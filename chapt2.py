@@ -10,7 +10,7 @@ print(" the remainder of x divide by y is ", x%y)
 x = input("enter the value of x: ")
 print("the value of x is ", x)
 print("the type of x is ", type(x)) 
-
+               
 # pg4
 x = int(input("enter the value of x: "))
 y = int(input("enter the value of y: "))
