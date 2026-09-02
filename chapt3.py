@@ -1,7 +1,6 @@
 # strings
 name = input(" Enter your name:")
 print(f"Good morning {name}")
-
 letter
 letter = '''Dear <|NAME|>,        
 You are selected!
