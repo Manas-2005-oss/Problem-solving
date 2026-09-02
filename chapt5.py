@@ -2,7 +2,7 @@ d={
     "anand": "happy",
     "ajja": "come",
     2: "two"
-}
+}        
 dict=(input("Enter the key: "))
 print(d[dict])
       
