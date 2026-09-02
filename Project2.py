@@ -5,7 +5,7 @@ def name():
     return name                             
 def get_marks():  
     maths= float(input("Enter marks in maths:"))
-    history= float(input("Enter marks in history:"))
+    history= float(input("Enter marks in history:"))       
     marathi= float(input("Enter marks in marathi:"))
     hindi= float(input("Enter marks in hindi:"))
     return maths,history,marathi,hindi
