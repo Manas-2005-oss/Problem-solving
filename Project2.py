@@ -2,7 +2,7 @@
 def name():
     name = input("Enter students name:")
     print("Student name is:", name)  
-    return name    
+    return name           
 def get_marks():  
     maths= float(input("Enter marks in maths:"))
     history= float(input("Enter marks in history:"))
