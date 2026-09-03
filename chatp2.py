@@ -16,10 +16,10 @@ print("the type of x is ", type(x))
 
 x = int(input("enter the value of x: "))
 y = int(input("enter the value of y: "))
-print (  x>y)"""
+print (  x>y)
 
 #pg5
-"""
+
 x = int(input("Enter the value of x:"))
 y = int(input("Enter the value of y:"))
 print("The average of x and y is ",(x+y)/2)"""
