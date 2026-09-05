@@ -30,11 +30,11 @@ area_of_rectangle = l * b
 print(area_of_rectangle,"cm^2")
 
 # problem5
-# Principal = (int(input("Enter principal amount:")))
-# Rate = (int(input("Enter rate Interest:")))
-# Time = (int(input("Enter time :")))
-# simple_Interest = (Principal * Rate * Time)/100
-# print(simple_Interest)
+Principal = (int(input("Enter principal amount:")))
+Rate = (int(input("Enter rate Interest:")))
+Time = (int(input("Enter time :")))
+simple_Interest = (Principal * Rate * Time)/100
+print(simple_Interest)
 
 
 # problem6
