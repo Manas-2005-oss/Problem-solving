@@ -11,7 +11,7 @@ reverse_dict ={1:"snake",-1:"water",0:"gun"}
 user =dict[user]
 
 print(f"Computer choice is {reverse_dict[computer]}\n and user choice is {reverse_dict[user]}")
-
+      
 if computer == user:
     print("Its a tie!")
 else:
