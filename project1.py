@@ -2,7 +2,7 @@
 import random 
 1=snake
 -1 water
-0 gun
+0 gun      
 computer = random.choice([1,-1,0])
 user = input("Enter your choice(s,w,g): ")
 dict = {"s":1,"w":-1,"g":0}
