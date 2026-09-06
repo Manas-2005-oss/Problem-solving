@@ -15,7 +15,7 @@ print(f"Computer choice is {reverse_dict[computer]}\n and user choice is {revers
 if computer == user:
     print("Its a tie!")
 else:
-    if(computer == 1 and user ==-1):
+    if(computer == 1 and user ==-1):    
         print("Computer wins")
     elif(computer == 1 and user ==0):
         print("User wins")
