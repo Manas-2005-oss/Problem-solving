@@ -1,3 +1,4 @@
+# greet function
 def greet():
     print("Welcome to dsa")
 greet()
