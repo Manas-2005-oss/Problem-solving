@@ -54,14 +54,14 @@ remaining_minutes = m % 60
 print(f"Hours are {hours}, and minutes are {remaining_minutes}")
 
 # problem9
-# a = (int(input("Enter no of a:")))
-# b = (int(input("Enter no of b:")))
-# c = (int(input("Enter no of c:")))
-# d = (int(input("Enter no of d:")))
-# e = (int(input("Enter no of e:")))
+a = (int(input("Enter no of a:")))
+b = (int(input("Enter no of b:")))
+c = (int(input("Enter no of c:")))
+d = (int(input("Enter no of d:")))
+e = (int(input("Enter no of e:")))
 
-# average = (a+b+c+d+e)/5
-# print("the average of 5 no is",average)
+average = (a+b+c+d+e)/5
+print("the average of 5 no is",average)
 
 # problem10
 m1 = (int(input("Enter m1 marks:")))
