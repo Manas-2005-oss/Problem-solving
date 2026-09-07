@@ -48,10 +48,10 @@ print(c)
 # print(f)
 
 # problem8
-# m = int(input("Enter the minutes:"))
-# hours = m // 60
-# remaining_minutes = m % 60
-# print(f"Hours are {hours}, and minutes are {remaining_minutes}")
+m = int(input("Enter the minutes:"))
+hours = m // 60
+remaining_minutes = m % 60
+print(f"Hours are {hours}, and minutes are {remaining_minutes}")
 
 # problem9
 # a = (int(input("Enter no of a:")))
