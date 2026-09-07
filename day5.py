@@ -27,6 +27,7 @@ greet("Manas")
 greet("L")
 greet("V")
 
+# square of a number
 def square(n):
     print(n*n)
 square(5)
