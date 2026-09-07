@@ -38,9 +38,9 @@ print(simple_Interest)
 
 
 # problem6
-# f = int(input("Enter the temparature in Fahrenheit:"))
-# c = 5*(f-32)/9
-# print(c)
+f = int(input("Enter the temparature in Fahrenheit:"))
+c = 5*(f-32)/9
+print(c)
 
 # problem7
 # c = int(input("Enter the temperature in celsius:"))
