@@ -32,6 +32,7 @@ def square(n):
     print(n*n)
 square(5)
 
+# adding 2 numbers
 def add(a,b):
     print(a+b)
 add(2,6)
