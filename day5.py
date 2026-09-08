@@ -49,6 +49,8 @@ def cube(n):
     return n*n*n
 x= cube(9)
 print(x)
+
+# square of a number
 def square(n):
     return n * n
     print("Done")
@@ -62,7 +64,8 @@ def fact(n):
     return 1
  else:
     return n * fact(n-1)
- 
+
+
 n = fact(5)
 print(n)
 
