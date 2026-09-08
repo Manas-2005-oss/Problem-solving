@@ -27,7 +27,7 @@ print(avg)
 
 
 
-
+# finding total of an array
 import numpy as np
 array = np.array([1,2,3,4,5])
 total = 0
