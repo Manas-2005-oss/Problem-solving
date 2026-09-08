@@ -44,6 +44,7 @@ def add(a,b):
 result = add(5,5)
 print(result)
 
+# cube of a number
 def cube(n):
     return n*n*n
 x= cube(9)
