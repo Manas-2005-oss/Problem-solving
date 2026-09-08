@@ -19,6 +19,7 @@ print(min_element)
 
 # finding avg of array
 import numpy as np
+
 arr1 = np.array([9,5,8,2,5])
 arr2 = np.array([10,5,8,2,5])
 
@@ -32,10 +33,10 @@ import numpy as np
 array = np.array([1,2,3,4,5])
 total = 0
 for num in array:
-    total= total+num
-    
+    total= total+num   
 print(total)
 
+# printing array
 arr = [5, 10, 15, 20, 25]
 for num in arr:
     print(num)
