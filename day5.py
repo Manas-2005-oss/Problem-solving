@@ -58,7 +58,7 @@ def square(n):
 print(square(4))
 
 
-factorial
+# factorial
 def fact(n):
  if (n==0) or (n==1):
     return 1
