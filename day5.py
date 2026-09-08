@@ -38,7 +38,7 @@ def add(a,b):
 add(2,6)
 add(10,5)
 
-return statement 
+# return statement 
 def add(a,b):
     return a + b
 result = add(5,5)
