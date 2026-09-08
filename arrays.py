@@ -41,7 +41,7 @@ arr = [5, 10, 15, 20, 25]
 for num in arr:
     print(num)
 
-sum of arr
+# sum of arr
 arr=[5, 10, 15, 20, 25]
 sum=0
 for num in arr:
