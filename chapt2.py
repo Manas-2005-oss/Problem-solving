@@ -22,6 +22,6 @@ x = int(input("Enter the value of x:"))
 y = int(input("Enter the value of y:"))
 print("The average of x and y is ",(x+y)/2)
 
-#pg6
+# pg6
 x = int(input("Enter value of x:"))
 print("The square of the value is", x*x)
