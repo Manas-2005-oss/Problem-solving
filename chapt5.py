@@ -31,8 +31,6 @@ s.add(n)
 n = int(input("Enter the number of elements: "))
 s.add(n)
 print(s)
-
-
 s = set()
 s.add(18)
 s.add("18")
