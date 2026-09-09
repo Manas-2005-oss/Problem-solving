@@ -36,7 +36,7 @@ for num in array:
     total= total+num   
 print(total)
 
-# printing array
+# printing array using array
 arr = [5, 10, 15, 20, 25]
 for num in arr:
     print(num)
