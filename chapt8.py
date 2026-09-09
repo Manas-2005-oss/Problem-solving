@@ -10,7 +10,7 @@ def greet(name,end):
  greet("Manas", "Thank you")
  greet("Sai", "Thank you")
 
-with return statement
+# with return statement
 def greet(name,end):
     print("Good morning," +name )
     print(end)
