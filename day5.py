@@ -1,3 +1,4 @@
+# greet function
 def greet():
     print("Welcome to dsa")
 greet()
@@ -26,25 +27,30 @@ greet("Manas")
 greet("L")
 greet("V")
 
+# square of a number
 def square(n):
     print(n*n)
 square(5)
 
+# adding 2 numbers
 def add(a,b):
     print(a+b)
 add(2,6)
 add(10,5)
 
-return statement 
+# return statement 
 def add(a,b):
     return a + b
 result = add(5,5)
 print(result)
 
+# cube of a number
 def cube(n):
     return n*n*n
 x= cube(9)
 print(x)
+
+# square of a number
 def square(n):
     return n * n
     print("Done")
@@ -52,13 +58,14 @@ def square(n):
 print(square(4))
 
 
-factorial
+# factorial
 def fact(n):
  if (n==0) or (n==1):
     return 1
  else:
     return n * fact(n-1)
- 
+
+
 n = fact(5)
 print(n)
 

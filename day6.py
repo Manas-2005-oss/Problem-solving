@@ -1,16 +1,20 @@
-# s = "python"
-# for ch in range(5,-1,-1):
-#     print(s[ch], end="")
+# reverse the string
+s = "python"
+for ch in range(5,-1,-1):
+    print(s[ch], end="")
 
-# s= "python"
-# print(s[::-1])
+# reverse a string using string method
+s= "python"
+print(s[::-1])
 
-# s= "python"
-# if s ==s[::-1]:
-#     print("palindrome")
-# else:
-#     print("not palindrome")
+# checking a string is palindrome or not
+s= "python"
+if s ==s[::-1]:
+    print("palindrome")
+else:
+    print("not palindrome")
 
+# counting the digits
 s = int(input("enter digits :"))
 count=0
 
