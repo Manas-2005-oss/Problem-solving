@@ -10,7 +10,7 @@ print(d[dict])
 # sets
 s = {1,5,7,8,9,2,6,10}
 print(s)
-
+# sets methods
 set = set(input("Enter the numbers: "))
 print(set)
 
