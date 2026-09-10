@@ -34,7 +34,7 @@ for i in range(1,50):
         continue
     print(i)
 
-# pass 
+# pass statement
 for i in range (0,10):
     pass
 
