@@ -5,6 +5,7 @@ while (i<51):
     print(i)
     i += 1 
 
+# for loop
 for i in range(1,51):
     print(i)
 
