@@ -70,6 +70,7 @@ else:
 
 
 # detection of spam
+
 p1= "make a lot of money"
 p= "but now"
 comment = input("Enter a comment:")
