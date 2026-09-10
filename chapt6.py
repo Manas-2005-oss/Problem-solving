@@ -16,11 +16,11 @@ a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 if a>b :
     print("a is greater than b")
+    
 else:
     print("b is greater than a")
 
-
-
+# finding the greatest no from 3 numbers
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 c = int(input("Enter the third number: "))
