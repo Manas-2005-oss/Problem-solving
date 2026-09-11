@@ -1,3 +1,4 @@
+# counting consonants in a string
 s="Python123AI45"
 count=0
 for ch in s:
