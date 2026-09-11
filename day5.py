@@ -11,6 +11,7 @@ def stars():
 stars()
 stars()
 
+# greeting function
 def greet():
     print("Hello, Manas")
 greet()
