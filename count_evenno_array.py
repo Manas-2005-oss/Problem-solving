@@ -1,3 +1,4 @@
+# counting even no in an array
 arr = [2, 7, 4, 9, 10, 13, 6]
 count=0
 for num in arr:
