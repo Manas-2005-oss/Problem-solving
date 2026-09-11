@@ -5,6 +5,7 @@ greet()
 greet()
 greet()
 
+# printing stars using functions
 def stars():
     print("*****")
 stars()
