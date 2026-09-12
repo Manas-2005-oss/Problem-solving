@@ -1,4 +1,4 @@
-# simple students marks calculator using functions and lists
+# simple students marks calculator using functions and lists       
 def name():
     name = input("Enter students name:")
     print("Student name is:", name)       
