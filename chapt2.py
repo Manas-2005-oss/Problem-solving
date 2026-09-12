@@ -3,7 +3,7 @@ x=5
 y=10
 print(x+y) 
 
-# pg2
+# pg2  
 print(" the remainder of x divide by y is ", x%y)
 
 #pg3
