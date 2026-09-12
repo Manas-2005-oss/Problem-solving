@@ -5,7 +5,7 @@ print(x+y)
 
 # pg2  
 print(" the remainder of x divide by y is ", x%y)
-
+   
 #pg3
 x = input("enter the value of x: ")
 print("the value of x is ", x)
