@@ -9,7 +9,7 @@ def get_marks():
     marathi= float(input("Enter marks in marathi:"))
     hindi= float(input("Enter marks in hindi:"))
     return maths,history,marathi,hindi
-def calculate_percentage(maths,history,marathi,hindi):
+def calculate_percentage(maths,history,marathi,hindi): 
     total_percentage = (maths+history+marathi+hindi)/400 *100
     print("Total Percentage is:", total_percentage)
     return total_percentage
