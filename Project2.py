@@ -1,5 +1,5 @@
 # simple students marks calculator using functions and lists       
-def name():
+def name(): 
     name = input("Enter students name:") 
     print("Student name is:", name)  
     return name
