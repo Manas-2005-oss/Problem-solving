@@ -14,6 +14,7 @@ print(s)
 set = set(input("Enter the numbers: "))
 print(set)
 
+# set methods
 s= set()
 n = int(input("Enter the number of elements: "))
 s.add(n)
