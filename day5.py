@@ -16,13 +16,14 @@ def greet():
     print("Hello, Manas")
 greet()
 greet()
+
 greet()
 greet()
 greet()
 
 
 
-
+# greeting with a parameter
 def greet(name):
     print("Hello", name)
 greet("Manas")
