@@ -21,7 +21,7 @@ b = greet("Sai", "Thank you")
 print(a)
 print(b)
 
-# default arguments/parameters
+# default arguments/ parameters
 def greet_user(name,end="Thank you"):
     print("Hi,"+name)
     print(end)
