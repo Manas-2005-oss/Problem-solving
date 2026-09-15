@@ -1,3 +1,4 @@
+# finding a no in an array
 arr = [10, 25, 7, 40, 15]
 found = False
 for num in arr:
