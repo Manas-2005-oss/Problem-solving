@@ -1,4 +1,4 @@
-# finding index of the element in array
+# finding index of the element in an array
 arr = [12, 5, 18, 7, 20]
 target = 7
 for i in range(len(arr)):
@@ -9,7 +9,7 @@ for i in range(len(arr)):
 
 
 
-# finding the index of repeated or duplicated elements
+# finding the index of repeated or duplicated element in an array array
 arr = [5,2,5,8,5,3]
 target=5
 for i in range(len(arr)):
