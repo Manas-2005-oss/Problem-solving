@@ -80,7 +80,7 @@ def fibo(f):
         return fibo(f-1) + fibo(f-2)
 print(fibo(6))
 
-# sum of n natural no in function
+#sum of n natural no in function
 def sum(n):
     if n==0:
         return 0
