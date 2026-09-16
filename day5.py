@@ -72,7 +72,7 @@ def fact(n):
 n = fact(5)
 print(n)
 
-# fibonacci series
+#fibonacci series
 def fibo(f):
     if f==0 or f==1:
         return f    
