@@ -1,4 +1,4 @@
-# counting repearted elements
+# counting repearted elements in array
 arr = [5, 2, 5, 8, 5, 3]
 target = 5
 count = 0
