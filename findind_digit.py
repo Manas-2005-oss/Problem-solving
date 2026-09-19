@@ -1,4 +1,4 @@
-s = "Manas2026AI123"
+s = "Manas2026AI123" 
 count = 0
 
 for ch in s:
