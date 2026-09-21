@@ -8,7 +8,7 @@ for num in array:
 print(max_value)       
     
 # find min value in array
-import numpy as np
+import numpy as np 
 arr = np.array([9,5,8,2,5])
 min_element = arr[0]
 for num in arr:
