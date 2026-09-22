@@ -1,4 +1,4 @@
-arr = [10, 15, 25, 35, 45]
+arr = [10, 15, 25, 35, 45] 
 target = 50
 left = 0
 right = len(arr) - 1
