@@ -7,7 +7,7 @@ for num in arr:
         count+=1
 print(count)
 
-# counting repearted multiple elements in array
+# counting repearted multiple elements in array 
 arr = [5, 2, 5, 8, 5, 9, 3, 9]
 target1 = 5
 target2= 9
