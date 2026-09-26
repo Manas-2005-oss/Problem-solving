@@ -1,4 +1,4 @@
-# dictionary 
+# dictionary  
 d={
     "anand": "happy",
     "ajja": "come",
