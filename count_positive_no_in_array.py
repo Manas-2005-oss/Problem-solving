@@ -1,3 +1,4 @@
+# counting positive no in an array
 arr = [-5, 3, -2, 8, 0, 7, -1] 
 count=0
 for num in arr:
